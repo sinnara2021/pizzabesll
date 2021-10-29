@@ -1,10 +1,10 @@
 ## Welcome to sinnara Pages
 
-최초의 챗봇 제작 경험기!
+🍕최초의 챗봇 제작 경험기!
 
-# Header 1
-## Header 2
-### Header 3
+# 👩🏻‍🦰 Header 1
+## 👨🏻‍🦱 Header 2
+### 👲🏻 Header 3
 
 - Bulleted
 - List
