@@ -16,7 +16,7 @@
 
 
 [나의 챗봇 깃헙페이지](https://sinnara2021.github.io/pizzabesll/)
-
+![Image]( https://cdn.pixabay.com/photo/2017/12/10/14/47/pizza-3010062_960_720.jpg )
 
 
 [Link](url) and ![Image](src)
