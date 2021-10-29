@@ -2,15 +2,6 @@
 
 최초의 챗봇 제작 경험기!
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
@@ -22,6 +13,9 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+
+[나의 챗봇 깃헙페이지](https://sinnara2021.github.io/pizzabesll/)
 
 [Link](url) and ![Image](src)
 ```
